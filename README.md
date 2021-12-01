@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mikhail-Kushnerev
+- 👋 Hi, I’m @Mikhail-Kushnerev (21.09.1999)
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Yandex
