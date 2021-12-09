@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @Mikhail-Kushnerev (21.09.1999)
+# 👋 Hi, I’m @Mikhail-Kushnerev
+(21.09.1999)
+|Yandex.Praktikum| |Projects|
+|-:|-:|-:|
+|[Cash & Calories Calculator](https://github.com/Mikhail-Kushnerev/Calculator-of-Money-and-Calories)| |[Telegram-bot](https://github.com/Mikhail-Kushnerev/Pizza-bot)|
+|[Yatube]|
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Yandex
