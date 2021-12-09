@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Mikhail-Kushnerev
 (21.09.1999)
-|Yandex.Praktikum| |Projects|
+|[Yandex.Praktikum](https://practicum.yandex.ru/trainer/python-developer-plus/lesson/91c0af5b-d616-47e9-81ba-01ed0d62910c/)| |Projects|
 |-:|-:|-:|
 |[Cash & Calories Calculator](https://github.com/Mikhail-Kushnerev/Calculator-of-Money-and-Calories)| |[Telegram-bot](https://github.com/Mikhail-Kushnerev/Pizza-bot)|
 |[Yatube]|
