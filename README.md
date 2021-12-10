@@ -5,7 +5,8 @@
 |[Cash & Calories Calculator](https://github.com/Mikhail-Kushnerev/Calculator-of-Money-and-Calories)| |[Telegram-bot](https://github.com/Mikhail-Kushnerev/Pizza-bot)|
 |[Yatube]|
 
-[![Codewars](https://github.r2v.ch/codewars?user=Mikhail-Kushnerev&stroke=%23BB432C)](https://www.codewars.com/users/Mikhail-Kushnerev)
+
+![Codewars](https://www.codewars.com/users/Mikhail-Kushnerev/badges/large)
 - 📫 How to reach me:
   - E-mail: mikushnerev@yandex.ru
   - Phone: 8-(981)-788-68-65
