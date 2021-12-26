@@ -8,10 +8,12 @@
 
 ![Codewars](https://www.codewars.com/users/Mikhail-Kushnerev/badges/large)
 ____
-- 📫 How to reach me:
-  - E-mail: mikushnerev@yandex.ru
+
+
+
+<!-- [![e-mail](https://github.com/Mikhail-Kushnerev/images/blob/main/yandex_mail.png)](mikushnerev@yandex.ru) -->
+[![telegram](https://github.com/Mikhail-Kushnerev/images/blob/main/telegram_logo.png)](https://t.me/mikushnerev)
   - Phone: 8-(981)-788-68-65
-  - Telegram: @mikushnerev
 <!---
 Mikhail-Kushnerev/Mikhail-Kushnerev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
