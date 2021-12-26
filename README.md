@@ -7,6 +7,7 @@
 
 
 ![Codewars](https://www.codewars.com/users/Mikhail-Kushnerev/badges/large)
+____
 - 📫 How to reach me:
   - E-mail: mikushnerev@yandex.ru
   - Phone: 8-(981)-788-68-65
