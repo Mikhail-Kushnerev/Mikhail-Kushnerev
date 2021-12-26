@@ -3,7 +3,7 @@
 |[Yandex.Praktikum](https://practicum.yandex.ru/trainer/python-developer-plus/lesson/91c0af5b-d616-47e9-81ba-01ed0d62910c/)| |Projects|
 |-:|-:|-:|
 |[Cash & Calories Calculator](https://github.com/Mikhail-Kushnerev/Calculator-of-Money-and-Calories)| |[Telegram-bot](https://github.com/Mikhail-Kushnerev/Pizza-bot)|
-|[Yatube]|
+|[Yatube](https://github.com/Mikhail-Kushnerev/hw05_final)|
 
 
 ![Codewars](https://www.codewars.com/users/Mikhail-Kushnerev/badges/large)
