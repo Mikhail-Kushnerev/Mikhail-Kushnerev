@@ -8,7 +8,7 @@
 
 ![Codewars](https://www.codewars.com/users/Mikhail-Kushnerev/badges/large)
 ____
-
+How to contact with me:  
 [![e-mail](https://github.com/Mikhail-Kushnerev/images/blob/main/yandex_mail.png)](mailto:mikushnerev@yandex.ru)
 [![telegram](https://github.com/Mikhail-Kushnerev/images/blob/main/telegram_logo.png)](https://t.me/mikushnerev)
   - Phone: 8-(981)-788-68-65
