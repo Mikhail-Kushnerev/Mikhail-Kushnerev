@@ -7,7 +7,7 @@
 |[Yatube (Social Network)](https://github.com/Mikhail-Kushnerev/hw05_final)|
 
 
-![Codewars](https://www.codewars.com/users/Mikhail-Kushnerev/badges/large)
+[![Codewars](https://www.codewars.com/users/Mikhail-Kushnerev/badges/large)](https://www.codewars.com/users/Mikhail-Kushnerev)
 ____
 How to contact with me:  
 [![e-mail](https://github.com/Mikhail-Kushnerev/images/blob/main/yandex_mail.png)](mailto:mikushnerev@yandex.ru)
