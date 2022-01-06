@@ -41,7 +41,7 @@
         />  
 </ul>  
 <hr>
-</br>
+<br />
 
 |[Yandex.Praktikum](https://practicum.yandex.ru/trainer/python-developer-plus/lesson/91c0af5b-d616-47e9-81ba-01ed0d62910c/)| |Projects|
 |-:|-:|-:|
