@@ -25,13 +25,13 @@
         aling="right" 
         alt="Django" 
         width="52px" 
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" 
+        src="https://www.bairesdev.com/wp-content/uploads/2019/04/img-django-logo.png" 
         />
   <img 
         aling="right" 
         alt="Git" 
         width="52px" 
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" 
+        src="https://stacksnap.com/media/git.png" 
         />
   <img 
         aling="right" 
