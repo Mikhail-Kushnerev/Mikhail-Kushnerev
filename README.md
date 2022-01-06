@@ -67,6 +67,12 @@ How to contact with me:
   width="26px" 
   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" 
   />](https://t.me/mikushnerev)
+[<img 
+  aling="right" 
+  alt="vk" 
+  width="26px" 
+  src="https://www.dropbox.com/team/team_logo/dbtid%3AAACHQZx4adzBZiBCpy7P4xtzn3UNxr-wcoE?v=1634126598663" 
+  />](https://vk.com/killermuxa)
 
   - Phone: 8-(981)-788-68-65
 <!---
