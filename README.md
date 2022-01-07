@@ -39,12 +39,12 @@
 <hr>
 <br />
 
-<table align="center">
-  <tr>
+<table align="center" cols="3">
+  <tr align="center">
     <td>
-      <a href="https://practicum.yandex.ru/trainer/python-developer-plus/lesson/91c0af5b-d616-47e9-81ba-01ed0d62910c/"> Yandex </a> 
+      <a href="https://practicum.yandex.ru/trainer/python-developer-plus/lesson/91c0af5b-d616-47e9-81ba-01ed0d62910c/"> Yandex.Practicum </a> 
     </td>
-    <td></td>
+    <td> </td>
     <td>
       <a> Projects </a>
     </td>
@@ -53,7 +53,7 @@
     <td>
       <a href="https://github.com/Mikhail-Kushnerev/Fitness-Tracker"> Fitness Tracker </a> 
     </td>
-    <td></td>
+    <td> </td>
     <td>
       <a href="https://github.com/Mikhail-Kushnerev/Pizza-bot"> Telegram-bot </a>
     </td>
@@ -62,7 +62,7 @@
     <td>
       <a href="https://github.com/Mikhail-Kushnerev/Calculator-of-Money-and-Calories"> Cash & Calories Calculator </a> 
     </td>
-    <td></td>
+    <td> </td>
     <td>
       <a>  </a>
     </td>
