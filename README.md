@@ -39,13 +39,44 @@
 <hr>
 <br />
 
-|[Yandex.Praktikum](https://practicum.yandex.ru/trainer/python-developer-plus/lesson/91c0af5b-d616-47e9-81ba-01ed0d62910c/)| |Projects|
-|:-|-:|:-|
-|[Fitness Tracker](https://github.com/Mikhail-Kushnerev/Fitness-Tracker)| |[Telegram-bot](https://github.com/Mikhail-Kushnerev/Pizza-bot)|
-|[Cash & Calories Calculator](https://github.com/Mikhail-Kushnerev/Calculator-of-Money-and-Calories)|
-|[Yatube (Social Network)](https://github.com/Mikhail-Kushnerev/hw05_final)|
-
-
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://practicum.yandex.ru/trainer/python-developer-plus/lesson/91c0af5b-d616-47e9-81ba-01ed0d62910c/"> Yandex </a> 
+    </td>
+    <td></td>
+    <td>
+      <a> Projects </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Mikhail-Kushnerev/Fitness-Tracker"> Fitness Tracker </a> 
+    </td>
+    <td></td>
+    <td>
+      <a href="https://github.com/Mikhail-Kushnerev/Pizza-bot"> Telegram-bot </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Mikhail-Kushnerev/Calculator-of-Money-and-Calories"> Cash & Calories Calculator </a> 
+    </td>
+    <td></td>
+    <td>
+      <a>  </a>
+    </td>
+  </tr>  
+  <tr>
+    <td>
+      <a href="https://github.com/Mikhail-Kushnerev/hw05_final)"> Yatube (Social Network) </a> 
+    </td>
+    <td></td>
+    <td>
+      <a>  </a>
+    </td>
+  </tr>   
+</table>
 
 [![Codewars](https://www.codewars.com/users/Mikhail-Kushnerev/badges/large)](https://www.codewars.com/users/Mikhail-Kushnerev)
 ____
