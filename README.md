@@ -39,14 +39,21 @@
 <hr>
 <br />
 
-<table align="center" cols="3">
+<table 
+  align="center"
+  cols="3"
+>
   <tr align="center">
     <td>
-      <a href="https://practicum.yandex.ru/trainer/python-developer-plus/lesson/91c0af5b-d616-47e9-81ba-01ed0d62910c/"> Yandex.Practicum </a> 
+      <b>
+        <a href="https://practicum.yandex.ru/trainer/python-developer-plus/lesson/91c0af5b-d616-47e9-81ba-01ed0d62910c/"> Yandex.Practicum </a> 
+      </b>
     </td>
     <td> </td>
     <td>
-      <a> Projects </a>
+      <b>
+        <a> Projects </a>
+      <b>
     </td>
   </tr>
   <tr>
