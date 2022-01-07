@@ -47,34 +47,34 @@
   align="center"
   cols="3"
 >
-  <tr align="center">
-    <td>
+  <tr align="center"> <!-- Строка №1 -->
+    <td> <!-- Столбец №1 -->
       <b>
         <a href="https://practicum.yandex.ru/trainer/python-developer-plus/lesson/91c0af5b-d616-47e9-81ba-01ed0d62910c/"> Yandex.Practicum </a> 
       </b>
     </td>
-    <td> </td>
-    <td>
+    <td> </td> <!-- Столбец №2 -->
+    <td> <!-- Столбец №3 -->
       <b>
         <a> Projects </a>
       <b>
     </td>
   </tr>
-  <tr>
-    <td>
+  <tr> <!-- Строка №2 -->
+    <td> <!-- Столбец №1 -->
       <a href="https://github.com/Mikhail-Kushnerev/Fitness-Tracker"> Fitness Tracker </a> 
     </td>
-    <td> </td>
-    <td>
+    <td> </td> <!-- Столбец №2 -->
+    <td> <!-- Столбец №3 -->
       <a href="https://github.com/Mikhail-Kushnerev/Pizza-bot"> Telegram-bot </a>
     </td>
   </tr>
-  <tr>
-    <td>
+  <tr> <!-- Строка №3 -->
+    <td> <!-- Столбец №1 -->
       <a href="https://github.com/Mikhail-Kushnerev/Calculator-of-Money-and-Calories"> Cash & Calories Calculator </a> 
     </td>
-    <td> </td>
-    <td>
+    <td> </td> <!-- Столбец №2 -->
+    <td> <!-- Столбец №3 -->
       <a>  </a>
     </td>
   </tr>  
