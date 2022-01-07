@@ -1,40 +1,34 @@
 # 👋 Hi, I’m @Mikhail-Kushnerev
 (21.09.1999)
 
-## Мой стек:  
+## Languages and Tools:  
 <ul>
-  <img 
-        aling="left" 
+  <img
         alt="Python" 
         width="52px" 
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" 
         />
-  <img 
-        aling="left" 
+  <img
         alt="HTML5" 
         width="52px" 
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" 
         />
-  <img 
-        aling="left" 
+  <img
         alt="CSS" 
         width="52px" 
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" 
         />      
-  <img 
-        aling="right" 
+  <img
         alt="Django" 
         width="52px" 
         src="https://www.bairesdev.com/wp-content/uploads/2019/04/img-django-logo.png" 
         />
-  <img 
-        aling="right" 
+  <img
         alt="Git" 
         width="52px" 
         src="https://stacksnap.com/media/git.png" 
         />
-  <img 
-        aling="right" 
+  <img
         alt="SQL" 
         width="52px" 
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" 
