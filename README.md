@@ -1,8 +1,10 @@
-# 👋 Hi, I’m @Mikhail-Kushnerev
-(21.09.1999)
+<h1 align="center" style="font-size: 500%;">
+  👋 Hi, I’m @Mikhail-Kushnerev 
+</h1>
+<p align="center"> (21.09.1999) </p>
 
 ## Languages and Tools:  
-<ul>
+<ul align="center">
   <img
         alt="Python" 
         width="52px" 
