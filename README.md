@@ -1,5 +1,9 @@
 <h1 align="center" style="font-size: 500%;">
-  👋 Hi, I’m @Mikhail-Kushnerev 
+  <img
+    src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
+    width="30px"
+    >
+  Hi, I’m @Mikhail-Kushnerev 
 </h1>
 <p align="center"> (21.09.1999) </p>
 
@@ -38,7 +42,7 @@
 </ul>  
 <hr>
 <br />
-
+<p>
 <table 
   align="center"
   cols="3"
