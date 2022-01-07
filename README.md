@@ -90,34 +90,36 @@
 </div> <br /><br /><br /><br /><br /><br /><br />
 
 ____
-  
-How to contact with me:  
 
-[<img 
-  aling="right" 
-  alt="e-mail" 
-  width="26px" 
-  src="https://avatars.mds.yandex.net/get-yapic/65952/enc-15316b863572ed0621d22e21b5015b6240d1ce8bc24252de87363a92be86f01b/islands-retina-50" 
-  />](mailto:mikushnerev@yandex.ru)
-[<img 
-  aling="right" 
-  alt="telegram" 
-  width="26px" 
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" 
-  />](https://t.me/mikushnerev)
-[<img 
-  aling="right" 
-  alt="vk" 
-  width="26px" 
-  src="https://www.dropbox.com/team/team_logo/dbtid%3AAACHQZx4adzBZiBCpy7P4xtzn3UNxr-wcoE?v=1634126598663" 
-  />](https://vk.com/killermuxa)
-[<img 
-  aling="right" 
-  alt="vk" 
-  width="26px" 
-  src="https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg"
-  />](https://discordapp.com/users/282964963335602177/)  
-  - Phone: 8-(981)-788-68-65
+<details>  
+  <summary> How to contact with me: </summary>
+
+  [<img 
+    aling="right" 
+    alt="e-mail" 
+    width="26px" 
+    src="https://avatars.mds.yandex.net/get-yapic/65952/enc-15316b863572ed0621d22e21b5015b6240d1ce8bc24252de87363a92be86f01b/islands-retina-50" 
+    />](mailto:mikushnerev@yandex.ru)
+  [<img 
+    aling="right" 
+    alt="telegram" 
+    width="26px" 
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" 
+    />](https://t.me/mikushnerev)
+  [<img 
+    aling="right" 
+    alt="vk" 
+    width="26px" 
+    src="https://www.dropbox.com/team/team_logo/dbtid%3AAACHQZx4adzBZiBCpy7P4xtzn3UNxr-wcoE?v=1634126598663" 
+    />](https://vk.com/killermuxa)
+  [<img 
+    aling="right" 
+    alt="vk" 
+    width="26px" 
+    src="https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg"
+    />](https://discordapp.com/users/282964963335602177/)  
+    - Phone: 8-(981)-788-68-65
+</details>  
 <!---
 Mikhail-Kushnerev/Mikhail-Kushnerev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
