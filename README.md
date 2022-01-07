@@ -77,7 +77,7 @@ How to contact with me:
   aling="right" 
   alt="vk" 
   width="26px" 
-  src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" 
+  src="https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg"
   />](https://discordapp.com/users/killerMuxa#6709/)  
   - Phone: 8-(981)-788-68-65
 <!---
