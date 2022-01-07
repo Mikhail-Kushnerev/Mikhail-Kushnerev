@@ -87,7 +87,7 @@
   </table>
 
   [<img align="right" src="https://www.codewars.com/users/Mikhail-Kushnerev/badges/large" />](https://www.codewars.com/users/Mikhail-Kushnerev)  
-</div> <br /><br /><br /><br /><br /><br />
+</div> <br /><br /><br /><br /><br /><br /><br />
 
 ____
   
