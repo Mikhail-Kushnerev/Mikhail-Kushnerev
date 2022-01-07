@@ -78,7 +78,7 @@ How to contact with me:
   alt="vk" 
   width="26px" 
   src="https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg"
-  />](https://discordapp.com/users/killerMuxa#6709/)  
+  />](https://discordapp.com/users/282964963335602177/)  
   - Phone: 8-(981)-788-68-65
 <!---
 Mikhail-Kushnerev/Mikhail-Kushnerev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
