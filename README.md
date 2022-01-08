@@ -3,7 +3,7 @@
     src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
     width="30px"
   >
-    Hi, I’m @Mikhail-Kushnerev 
+    Hi, I’m Mikhail
 </h1>
 <p align="center"> (21.09.1999) </p>
 
