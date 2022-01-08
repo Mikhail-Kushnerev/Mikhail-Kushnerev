@@ -60,6 +60,7 @@
 <!-- TABLES -->
 
 <div style="display: inline_block">  
+  
   [<img align="right" src="https://www.codewars.com/users/Mikhail-Kushnerev/badges/large">](https://www.codewars.com/users/Mikhail-Kushnerev)  
   
   <table>
