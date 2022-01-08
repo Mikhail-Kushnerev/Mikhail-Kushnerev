@@ -92,7 +92,7 @@
     </tr>  
     <tr>
       <td>
-        <a href="https://github.com/Mikhail-Kushnerev/hw05_final)"> Yatube (Social Network) </a> 
+        <a href="https://github.com/Mikhail-Kushnerev/Social-Network-Yatube"> Yatube (Social Network) </a> 
       </td>
       <td></td>
       <td>
