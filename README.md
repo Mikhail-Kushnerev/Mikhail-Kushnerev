@@ -132,7 +132,7 @@ ____
     />](https://vk.com/killermuxa)
   [<img 
     aling="right" 
-    alt="vk" 
+    alt="Discord" 
     width="26px" 
     src="https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg"
     />](https://discordapp.com/users/282964963335602177/)  
