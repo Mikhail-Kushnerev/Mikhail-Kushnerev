@@ -7,8 +7,8 @@
 </h1>
 <p align="center"> (21.09.1999) </p>
 
-[<img background_color=8b0000 src="https://spotify-name.herokuapp.com"/>](https://open.spotify.com/user/killerMuxa)
 
+<!-- LANGUAGES AND TOOLS -->
 
 <h3>
   <img
@@ -56,8 +56,10 @@
         >  
 </ul>  
 <hr>
-<div style="display: inline_block">
-  
+
+<!-- TABLES -->
+
+<div style="display: inline_block">  
   [<img align="right" src="https://www.codewars.com/users/Mikhail-Kushnerev/badges/large">](https://www.codewars.com/users/Mikhail-Kushnerev)  
   
   <table>
@@ -106,6 +108,8 @@
 
 ____
 
+<!-- CONTACTES -->  
+  
 <details>  
   <summary>
     <img
