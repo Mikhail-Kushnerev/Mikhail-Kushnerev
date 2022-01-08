@@ -7,7 +7,8 @@
 </h1>
 <p align="center"> (21.09.1999) </p>
 
-[![Spotify](https://spotify-name.herokuapp.com)](https://open.spotify.com/user/killerMuxa)
+[<img background_color=8b0000 src="https://spotify-name.herokuapp.com"/>](https://open.spotify.com/user/killerMuxa)
+
 
 <h3>
   <img
