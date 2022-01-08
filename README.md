@@ -121,34 +121,44 @@ ____
       How to contact with me:
   </summary>
   <br />
-  
-  [<img  
-    alt="e-mail" 
-    width="28px" 
-    src="https://avatars.mds.yandex.net/get-yapic/65952/enc-15316b863572ed0621d22e21b5015b6240d1ce8bc24252de87363a92be86f01b/islands-retina-50" 
-    />](mailto:mikushnerev@yandex.ru)
-  [<img 
-    alt="telegram" 
-    width="26px" 
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" 
-    />](https://t.me/mikushnerev)
-  [<img 
-    alt="WhatsApp" 
-    width="28px" 
-    src="https://raw.githubusercontent.com/github/explore/fbea3555736cd38170cc0be88424d129741ffbb9/topics/whatsapp/whatsapp.png" 
-    />](https://t.me/mikushnerev)  
-  [<img 
-    alt="vk" 
-    width="26px" 
-    src="https://www.dropbox.com/team/team_logo/dbtid%3AAACHQZx4adzBZiBCpy7P4xtzn3UNxr-wcoE?v=1634126598663" 
-    />](https://vk.com/killermuxa)
-  [<img 
-    aling="right" 
-    alt="Discord" 
-    width="26px" 
-    src="https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg"
-    />](https://discordapp.com/users/282964963335602177/)  
-    - Phone: 8-(981)-788-68-65
+  <ul>
+    <a href="mailto:mikushnerev@yandex.ru">
+      <img  
+        alt="e-mail" 
+        width="28px" 
+        src="https://avatars.mds.yandex.net/get-yapic/65952/enc-15316b863572ed0621d22e21b5015b6240d1ce8bc24252de87363a92be86f01b/islands-retina-50" 
+      />
+    </a>
+    <a href="https://t.me/mikushnerev">
+      <img 
+        alt="telegram" 
+        width="26px" 
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" 
+      />
+    </a>
+    <a href="https://wa.me/79817886865">
+      <img 
+        alt="WhatsApp" 
+        width="28px" 
+        src="https://raw.githubusercontent.com/github/explore/fbea3555736cd38170cc0be88424d129741ffbb9/topics/whatsapp/whatsapp.png" 
+      />
+    <a href="https://vk.com/killermuxa">
+      <img 
+        alt="vk" 
+        width="26px" 
+        src="https://www.dropbox.com/team/team_logo/dbtid%3AAACHQZx4adzBZiBCpy7P4xtzn3UNxr-wcoE?v=1634126598663" 
+      />
+    </a>
+    <a href="https://discordapp.com/users/282964963335602177">
+      <img 
+        aling="right" 
+        alt="Discord" 
+        width="28px" 
+        src="https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg"
+      />
+    </a>
+      - Phone: 8-(981)-788-68-65
+  </ul>
 </details>  
 <!---
 Mikhail-Kushnerev/Mikhail-Kushnerev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
