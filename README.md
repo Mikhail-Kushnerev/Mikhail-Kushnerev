@@ -124,7 +124,7 @@ ____
   
   [<img  
     alt="e-mail" 
-    width="26px" 
+    width="28px" 
     src="https://avatars.mds.yandex.net/get-yapic/65952/enc-15316b863572ed0621d22e21b5015b6240d1ce8bc24252de87363a92be86f01b/islands-retina-50" 
     />](mailto:mikushnerev@yandex.ru)
   [<img 
@@ -132,6 +132,11 @@ ____
     width="26px" 
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" 
     />](https://t.me/mikushnerev)
+  [<img 
+    alt="WhatsApp" 
+    width="28px" 
+    src="https://raw.githubusercontent.com/github/explore/fbea3555736cd38170cc0be88424d129741ffbb9/topics/whatsapp/whatsapp.png" 
+    />](https://t.me/mikushnerev)  
   [<img 
     alt="vk" 
     width="26px" 
