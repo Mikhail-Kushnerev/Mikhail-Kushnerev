@@ -1,57 +1,64 @@
-<h1 align="center" style="font-size: 500%;">
+<h1 align="center">
   <img
     src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
     width="30px"
-    >
-  Hi, I’m @Mikhail-Kushnerev 
+  >
+    Hi, I’m @Mikhail-Kushnerev 
 </h1>
 <p align="center"> (21.09.1999) </p>
 
 
-## Languages and Tools:  
+<h3>
+  <img
+    align="center"
+    width="30px"
+    src="https://cdn-0.emojis.wiki/wp-content/uploads/2020/12/keyboard.gif"
+  >
+    Languages and Tools:
+</h3>
 <ul align="center">
   <img
         alt="Python" 
         width="52px" 
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" 
-        />
+        >
   <img
         alt="HTML5" 
         width="52px" 
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" 
-        />
+        >
   <img
         alt="CSS" 
         width="52px" 
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" 
-        />      
+        >      
   <img
         alt="Django" 
         width="52px" 
         src="https://www.bairesdev.com/wp-content/uploads/2019/04/img-django-logo.png" 
-        />
+        >
   <img
         alt="Git" 
         width="52px" 
         src="https://stacksnap.com/media/git.png" 
-        />
+        >
   <img
         alt="SQL" 
         width="52px" 
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" 
-        />
+        >
   <img
         alt="Markdown"
         width="52px" 
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" 
-        />  
+        >  
 </ul>  
 <hr>
 <div style="display: inline_block">
   
-  [<img align="right" src="https://www.codewars.com/users/Mikhail-Kushnerev/badges/large" />](https://www.codewars.com/users/Mikhail-Kushnerev)  
+  [<img align="right" src="https://www.codewars.com/users/Mikhail-Kushnerev/badges/large">](https://www.codewars.com/users/Mikhail-Kushnerev)  
   
-  <table >
+  <table>
     <tr align="center"> <!-- Строка №1 -->
       <td> <!-- Столбец №1 -->
         <b>
@@ -98,22 +105,27 @@
 ____
 
 <details>  
-  <summary> How to contact with me: </summary>
-
-  [<img 
-    aling="right" 
+  <summary>
+    <img
+      align="center"
+      width="25px"
+      src="https://cdn-0.emojis.wiki/wp-content/uploads/2020/12/open-mailbox-with-raised-flag.gif"
+    />
+      How to contact with me:
+  </summary>
+  <br />
+  
+  [<img  
     alt="e-mail" 
     width="26px" 
     src="https://avatars.mds.yandex.net/get-yapic/65952/enc-15316b863572ed0621d22e21b5015b6240d1ce8bc24252de87363a92be86f01b/islands-retina-50" 
     />](mailto:mikushnerev@yandex.ru)
   [<img 
-    aling="right" 
     alt="telegram" 
     width="26px" 
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" 
     />](https://t.me/mikushnerev)
   [<img 
-    aling="right" 
     alt="vk" 
     width="26px" 
     src="https://www.dropbox.com/team/team_logo/dbtid%3AAACHQZx4adzBZiBCpy7P4xtzn3UNxr-wcoE?v=1634126598663" 
