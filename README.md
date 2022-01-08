@@ -7,6 +7,7 @@
 </h1>
 <p align="center"> (21.09.1999) </p>
 
+
 ## Languages and Tools:  
 <ul align="center">
   <img
@@ -46,9 +47,11 @@
         />  
 </ul>  
 <hr>
-<br />
-<div class="row">
-  <table align="left">
+<div style="display: inline_block">
+  
+  [<img align="right" src="https://www.codewars.com/users/Mikhail-Kushnerev/badges/large" />](https://www.codewars.com/users/Mikhail-Kushnerev)  
+  
+  <table >
     <tr align="center"> <!-- Строка №1 -->
       <td> <!-- Столбец №1 -->
         <b>
@@ -90,9 +93,7 @@
       </td>
     </tr>   
   </table>
-
-  [<img align="right" src="https://www.codewars.com/users/Mikhail-Kushnerev/badges/large" />](https://www.codewars.com/users/Mikhail-Kushnerev)  
-</div> <br /><br /><br /><br /><br /><br /><br />
+</div>
 
 ____
 
