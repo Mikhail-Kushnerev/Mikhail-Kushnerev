@@ -161,11 +161,13 @@ ____
         src="https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg"
       />
     </a>
-      <img
-        title="8-(981)-788-68-65"
-        width="28px"
-        src="https://cdn-0.emojis.wiki/wp-content/uploads/2020/12/memo-2.gif"
-      >
+    <a href="tel:89817886865">
+        <img
+          title="8-(981)-788-68-65"
+          width="28px"
+          src="https://cdn-0.emojis.wiki/wp-content/uploads/2020/12/memo-2.gif"
+        >
+    </a>
   </ul>
 </details>  
 <!---
