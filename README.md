@@ -7,6 +7,8 @@
 </h1>
 <p align="center"> (21.09.1999) </p>
 
+[![Spotify](https://spotify-steel-eta.vercel.app/api/spotify/)](https://open.spotify.com/user/killerMuxa)
+
 
 <!-- LANGUAGES AND TOOLS -->
 
