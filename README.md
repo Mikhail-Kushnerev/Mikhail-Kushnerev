@@ -160,14 +160,12 @@ ____
         src="https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg"
       />
     </a>
-    <a href="tel:+79817886865">
-        <img
-          title="8-(981)-788-68-65"
-          width="28px"
-          alt="Phone"
-          src="https://cdn-0.emojis.wiki/wp-content/uploads/2020/12/memo-2.gif"
-        >
-    </a>
+    <img
+      title="8-(981)-788-68-65"
+      width="28px"
+      alt="Phone"
+      src="https://cdn-0.emojis.wiki/wp-content/uploads/2020/12/memo-2.gif"
+    >
   </ul>
 </details>  
 <!---
