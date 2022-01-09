@@ -107,7 +107,7 @@
 </div>
 
 ## Spotify playing 🎧
-[![Spotify](https://spotify-steel-eta.vercel.app/api/spotify/?border_color=ffffff&scan=true/)](https://open.spotify.com/user/killerMuxa)  
+[![Spotify](https://spotify-steel-eta.vercel.app/api/spotify/?border_color=ffffff)](https://open.spotify.com/user/killerMuxa)  
 
 ____
 
