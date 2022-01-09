@@ -7,9 +7,6 @@
 </h1>
 <p align="center"> (21.09.1999) </p>
 
-[![Spotify](https://spotify-steel-eta.vercel.app/api/spotify/)](https://open.spotify.com/user/killerMuxa)
-
-
 <!-- LANGUAGES AND TOOLS -->
 
 <h3>
@@ -108,6 +105,9 @@
     </tr>   
   </table>
 </div>
+
+## Spotify playing 🎧
+[![Spotify](https://spotify-steel-eta.vercel.app/api/spotify/?border_color=ffffff&scan=true/)](https://open.spotify.com/user/killerMuxa)  
 
 ____
 
