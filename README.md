@@ -139,7 +139,7 @@ ____
       />
     </a>
     <a href="https://wa.me/79817886865">
-      <img 
+      <img
         alt="WhatsApp" 
         width="28px" 
         src="https://raw.githubusercontent.com/github/explore/fbea3555736cd38170cc0be88424d129741ffbb9/topics/whatsapp/whatsapp.png" 
@@ -159,7 +159,11 @@ ____
         src="https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg"
       />
     </a>
-      - Phone: 8-(981)-788-68-65
+      <img
+        title="8-(981)-788-68-65"
+        width="28px"
+        src="https://cdn-0.emojis.wiki/wp-content/uploads/2020/12/memo-2.gif"
+      >
   </ul>
 </details>  
 <!---
