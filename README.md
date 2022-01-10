@@ -108,9 +108,10 @@
   </table>
 </div>
 
+<!--
 ## Spotify playing 🎧
 [![Spotify](https://spotify-steel-eta.vercel.app/api/spotify/?border_color=ffffff)](https://open.spotify.com/user/31nzxdr5b3ph5zk3ewewbxb6agwq)  
-
+-->
 ____
 
 <!-- CONTACTES -->  
