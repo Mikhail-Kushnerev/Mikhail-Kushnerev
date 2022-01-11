@@ -68,10 +68,11 @@
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" 
         >
   <img
-        alt="Markdown"
-        width="52px" 
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" 
-        >  
+       align="top"
+       alt="Markdown"
+        width="80px" 
+        src="https://github.com/Mikhail-Kushnerev/image/blob/main/Vektornyi_774_smart-obekt.png" 
+        />  
 </ul>  
 <hr>
 
