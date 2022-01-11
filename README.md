@@ -22,24 +22,40 @@
 <ul align="center">
   <img
         alt="Python" 
-        width="52px" 
+        width="58px" 
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" 
         >
   <img
         alt="HTML5" 
-        width="52px" 
+        width="56px" 
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" 
         >
   <img
         alt="CSS" 
-        width="52px" 
+        width="56px" 
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" 
-        >      
+  />
+  <img
+    alt="Bootstrap" 
+    width="52px" 
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" 
+  />    
   <img
         alt="Django" 
         width="52px" 
         src="https://www.bairesdev.com/wp-content/uploads/2019/04/img-django-logo.png" 
-        >
+  />
+  <img
+    alt="JSON"
+    width="52px"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"
+  />
+<!--  <img
+    align="center"
+    alt="REST API"
+    width="52px"
+    src="https://salesforceprofs.com/wp-content/uploads/2019/12/api_rest.png"
+  />  -->
   <img
         alt="Git" 
         width="52px" 
