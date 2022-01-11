@@ -27,11 +27,13 @@
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" 
   />
   <img
+       align="top"
         alt="HTML5" 
         width="56px" 
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" 
         >
   <img
+       align="top"
         alt="CSS" 
         width="56px" 
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" 
@@ -42,11 +44,13 @@
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" 
   />    
   <img
-    alt="Django" 
+       align="top"
+      alt="Django" 
         width="58px" 
         src="https://www.bairesdev.com/wp-content/uploads/2019/04/img-django-logo.png" 
   />
   <img
+       align="top"
     alt="JSON"
     width="52px"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"
@@ -58,11 +62,13 @@
     src="https://salesforceprofs.com/wp-content/uploads/2019/12/api_rest.png"
   />  -->
   <img
+       align="top"
         alt="Git" 
         width="52px" 
         src="https://stacksnap.com/media/git.png" 
         >
   <img
+       align="top"
         alt="SQL" 
         width="52px" 
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" 
