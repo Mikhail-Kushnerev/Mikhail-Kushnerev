@@ -84,7 +84,7 @@
       </td>
       <td> </td> <!-- Столбец №2 -->
       <td> <!-- Столбец №3 -->
-        <a href="https://github.com/Mikhail-Kushnerev/Pizza-bot"> Telegram-bot </a>
+        <a href="https://github.com/Mikhail-Kushnerev/Pizza-bot"> Pizza-bot </a>
       </td>
     </tr>
     <tr> <!-- Строка №3 -->
