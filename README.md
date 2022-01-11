@@ -13,7 +13,7 @@
 
 <h3>
   <img
-    align="center"
+    align="top"
     width="30px"
     src="https://cdn-0.emojis.wiki/wp-content/uploads/2020/12/keyboard.gif"
   >
