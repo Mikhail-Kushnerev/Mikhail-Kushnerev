@@ -101,7 +101,7 @@
           <a> Projects </a>
         <b>
       </td>
-    </tr>
+    </tr> <!-- Строка №1 -->
     <tr> <!-- Строка №2 -->
       <td> <!-- Столбец №1 -->
         <a href="https://github.com/Mikhail-Kushnerev/Fitness-Tracker"> Fitness Tracker </a> 
@@ -110,7 +110,7 @@
       <td> <!-- Столбец №3 -->
         <a href="https://github.com/Mikhail-Kushnerev/Pizza-bot"> Pizza-bot </a>
       </td>
-    </tr>
+    </tr> <!-- Строка №2 -->
     <tr> <!-- Строка №3 -->
       <td> <!-- Столбец №1 -->
         <a href="https://github.com/Mikhail-Kushnerev/Calculator-of-Money-and-Calories"> Cash & Calories Calculator </a> 
@@ -119,8 +119,8 @@
       <td> <!-- Столбец №3 -->
         <a>  </a>
       </td>
-    </tr>  
-    <tr>
+    </tr> <!-- Строка №3 -->
+    <tr> <!-- Строка №4 -->
       <td>
         <a href="https://github.com/Mikhail-Kushnerev/Social-Network-Yatube"> Yatube (Social Network) </a> 
       </td>
@@ -128,7 +128,14 @@
       <td>
         <a>  </a>
       </td>
-    </tr>   
+    </tr> <!-- Строка №4 -->
+    <tr> <!-- Строка №5 -->
+      <td>
+        <a href="https://github.com/Mikhail-Kushnerev/homework_bot"> API-Telegram Bot </a>
+      </td>
+      <td> </td>
+      <td> </td>
+    </tr>
   </table>
 </div>
 
