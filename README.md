@@ -59,7 +59,7 @@
     align="center"
     alt="REST API"
     width="52px"
-    src="https://salesforceprofs.com/wp-content/uploads/2019/12/api_rest.png"
+    src="https://salesforceprofs.com/wp-content/uploads/2019/12/api_rest.png#gh-dark-mode-only"
   />  -->
   <img
        align="top"
