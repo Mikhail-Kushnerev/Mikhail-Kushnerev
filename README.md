@@ -126,7 +126,7 @@
       </td>
       <td></td>
       <td>
-        <a>  </a>
+        <a href="https://github.com/Mikhail-Kushnerev/agr0-sh0p"> Market Place </a> 
       </td>
     </tr> <!-- Строка №4 -->
     <tr> <!-- Строка №5 -->
