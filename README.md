@@ -54,7 +54,7 @@
     alt="JSON"
     width="52px"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"
-  />
+  >
 <!--  <img
     align="center"
     alt="REST API"
@@ -66,36 +66,33 @@
         alt="Git" 
         width="52px" 
         src="https://stacksnap.com/media/git.png" 
-        >
+  >
   <img
        align="top"
         alt="SQL" 
         width="52px" 
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" 
-        >
+  >
   <img
        align="top"
        alt="Markdown"
         width="80px" 
         src="https://github.com/Mikhail-Kushnerev/image/blob/main/Vektornyi_774_smart-obekt.png" 
-        />  
+  >  
 </ul>  
 <hr>
 
 <!-- TABLES -->
 
-<div style="display: inline_block">  
-  
-  [<img align="right" src="https://www.codewars.com/users/Mikhail-Kushnerev/badges/large">](https://www.codewars.com/users/Mikhail-Kushnerev)  
-  
-  <table>
+<div style="display: inline_block">
+  <table align="center">
     <tr align="center"> <!-- Строка №1 -->
       <td> <!-- Столбец №1 -->
-        <b>
-          <a href="https://practicum.yandex.ru/trainer/python-developer-plus/lesson/91c0af5b-d616-47e9-81ba-01ed0d62910c/"> Yandex.Practicum </a> 
-        </b>
+        <a href="https://practicum.yandex.ru/trainer/python-developer-plus/lesson/91c0af5b-d616-47e9-81ba-01ed0d62910c/"> Yandex.Practicum </a> 
       </td>
-      <td> </td> <!-- Столбец №2 -->
+      <td>
+        <a href=""> JetBrains Academy </a>
+      </td> <!-- Столбец №2 -->
       <td> <!-- Столбец №3 -->
         <b>
           <a> Projects </a>
@@ -146,12 +143,36 @@
     </tr>        
   </table>
 </div>
-
+  
+<ul align="center">
+  <a href="https://py.checkio.org/user/Mikhail-Kushnerev/">
+    <img
+      alt="CheckIO"
+      align="center"
+      width="100px"
+      src="https://cdn-images-1.medium.com/max/258/1*dkCsErDtsjd4jYYwXK3bjw@2x.png"
+    >
+  <a href="https://leetcode.com/Mikhail-Kushnerev/">
+    <img
+      alt="Leetcode"
+      align="center"
+      width="100px"
+      src="https://blog.ashishbansal.in/2017/04/27/A-post-after-long-time-Joining-Leetcode-for-full-time-position/leetcode.png"
+    >
+  </a>
+  <a href="https://www.codewars.com/users/Mikhail-Kushnerev">
+    <img
+      alt="Codewars"
+      align="center"
+      src="https://www.codewars.com/users/Mikhail-Kushnerev/badges/large"
+    >
+  </a>
+</ul>
 <!--
 ## Spotify playing 🎧
 [![Spotify](https://spotify-steel-eta.vercel.app/api/spotify/?border_color=ffffff)](https://open.spotify.com/user/31nzxdr5b3ph5zk3ewewbxb6agwq)  
 -->
-____
+<hr>
 
 <!-- CONTACTES -->  
   
