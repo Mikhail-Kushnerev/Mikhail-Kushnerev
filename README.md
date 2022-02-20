@@ -143,7 +143,9 @@
     </tr>        
   </table>
 </div>
-  
+
+<!-- Задачки -->
+
 <ul align="center">
   <a href="https://py.checkio.org/user/Mikhail-Kushnerev/">
     <img
@@ -152,6 +154,13 @@
       width="100px"
       src="https://cdn-images-1.medium.com/max/258/1*dkCsErDtsjd4jYYwXK3bjw@2x.png"
     >
+  <a href="https://py.checkio.org/user/Mikhail-Kushnerev/">
+    <img
+      alt="Codingame"
+      align="center"
+      width="30%"
+      src="https://miro.medium.com/max/2000/1*5JBqz80B-0jhv7AmlQ4mZg.png"
+    >    
   <a href="https://leetcode.com/Mikhail-Kushnerev/">
     <img
       alt="Leetcode"
