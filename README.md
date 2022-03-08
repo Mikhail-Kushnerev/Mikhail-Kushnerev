@@ -119,7 +119,7 @@
     </tr> <!-- Строка №3 -->
     <tr> <!-- Строка №4 -->
       <td>
-        <a href="https://github.com/Mikhail-Kushnerev/Social-Network-Yatube"> Yatube (Social Network) </a> 
+        <a href="https://github.com/Mikhail-Kushnerev/Social-Network-Yatube"> 👥 Yatube (Social Network) </a> 
       </td>
       <td></td>
       <td>
