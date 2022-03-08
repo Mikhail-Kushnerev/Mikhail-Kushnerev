@@ -105,7 +105,7 @@
       </td>
       <td> </td> <!-- Столбец №2 -->
       <td> <!-- Столбец №3 -->
-        <a href="https://github.com/Mikhail-Kushnerev/Pizza-bot"> Pizza-bot </a>
+        <a href="https://github.com/Mikhail-Kushnerev/Pizza-bot"> :pizza: Pizza-bot </a>
       </td>
     </tr> <!-- Строка №2 -->
     <tr> <!-- Строка №3 -->
@@ -123,7 +123,7 @@
       </td>
       <td></td>
       <td>
-        <a href="https://github.com/Mikhail-Kushnerev/agr0-sh0p"> Market Place </a> 
+        <a href="https://github.com/Mikhail-Kushnerev/agr0-sh0p"> :heavy_dollar_sign: Market Place </a> 
       </td>
     </tr> <!-- Строка №4 -->
     <tr> <!-- Строка №5 -->
@@ -133,7 +133,7 @@
       </td>
       <td> </td>
       <td>
-        <a href="https://github.com/Mikhail-Kushnerev/Geolocation-by-IP"> Geolocation-by-IP </a>
+        <a href="https://github.com/Mikhail-Kushnerev/Geolocation-by-IP"> :earth_africa: Geolocation-by-IP </a>
       </td>
     </tr>
     <tr> <!-- Строка №5 -->
