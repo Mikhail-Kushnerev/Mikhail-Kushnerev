@@ -132,7 +132,9 @@
         <a href="https://github.com/Mikhail-Kushnerev/kittybot"> API-Kitty Bot </a>
       </td>
       <td> </td>
-      <td> </td>
+      <td>
+        <a href="https://github.com/Mikhail-Kushnerev/Geolocation-by-IP"> Geolocation-by-IP </a>
+      </td>
     </tr>
     <tr> <!-- Строка №5 -->
       <td>
