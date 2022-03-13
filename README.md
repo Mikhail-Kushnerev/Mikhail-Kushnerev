@@ -139,6 +139,7 @@
     <tr> <!-- Строка №5 -->
       <td>
         <a href="https://github.com/Mikhail-Kushnerev/api_final_yatube"> API-Yatube </a>
+        <a href="https://github.com/Mikhail-Kushnerev/api_yamdb"> API-Yamdb </a>
       </td>
       <td> </td>
       <td> </td>
