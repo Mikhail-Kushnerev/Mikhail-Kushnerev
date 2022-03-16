@@ -142,7 +142,9 @@
         <a href="https://github.com/Mikhail-Kushnerev/api_yamdb"> API-Yamdb </a>
       </td>
       <td> </td>
-      <td> </td>
+      <td>
+        <a href="https://github.com/Mikhail-Kushnerev/Export-Write-CSV"> :page_facing_up: Export-Write-CSV </a>
+      </td>
     </tr>        
   </table>
 </div>
