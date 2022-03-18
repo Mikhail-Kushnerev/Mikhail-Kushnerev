@@ -145,7 +145,14 @@
       <td>
         <a href="https://github.com/Mikhail-Kushnerev/Export-Write-CSV"> :page_facing_up: Export-Write-CSV </a>
       </td>
-    </tr>        
+    </tr>
+    <tr> <!-- Строка № -->
+      <td> </td>
+      <td> </td>
+      <td>
+        <a href=""> :email: Template Sending Message </a>
+      </td>
+    </tr> 
   </table>
 </div>
 
