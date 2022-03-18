@@ -22,35 +22,41 @@
 <ul align="center">
   <img
     align="top"
-    alt="Python" 
-    width="62px" 
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" 
+    alt="Python"
+    width="62px"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
   />
   <img
-       align="top"
-        alt="HTML5" 
-        width="56px" 
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" 
-        >
+    align="top"
+    alt="HTML5"
+    width="56px"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
+  >
   <img
        align="top"
-        alt="CSS" 
-        width="56px" 
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" 
+        alt="CSS"
+        width="56px"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
   />
   <img
-    alt="Bootstrap" 
-    width="52px" 
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" 
-  />    
-  <img
-       align="top"
-      alt="Django" 
-        width="58px" 
-        src="https://www.bairesdev.com/wp-content/uploads/2019/04/img-django-logo.png" 
+    alt="Bootstrap"
+    width="52px"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"
   />
   <img
-       align="top"
+    align="top"
+    alt="Django"
+    width="58px"
+    src="https://www.bairesdev.com/wp-content/uploads/2019/04/img-django-logo.png" 
+  />
+  <img
+    align="top"
+    alt="Heroku"
+    width="52px"
+    src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png"
+  >
+  <img
+    align="top"
     alt="JSON"
     width="52px"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"
@@ -62,22 +68,22 @@
     src="https://salesforceprofs.com/wp-content/uploads/2019/12/api_rest.png#gh-dark-mode-only"
   />  -->
   <img
-       align="top"
-        alt="Git" 
-        width="52px" 
-        src="https://stacksnap.com/media/git.png" 
+    align="top"
+    alt="Git"
+    width="52px"
+    src="https://stacksnap.com/media/git.png"
   >
   <img
-       align="top"
-        alt="SQL" 
-        width="52px" 
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" 
+    align="top"
+    alt="SQL"
+    width="52px"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"
   >
   <img
-       align="top"
-       alt="Markdown"
-        width="80px" 
-        src="https://github.com/Mikhail-Kushnerev/image/blob/main/Vektornyi_774_smart-obekt.png" 
+    align="top"
+    alt="Markdown"
+    width="80px"
+    src="https://github.com/Mikhail-Kushnerev/image/blob/main/Vektornyi_774_smart-obekt.png" 
   >  
 </ul>  
 <hr>
@@ -101,7 +107,7 @@
     </tr> <!-- Строка №1 -->
     <tr> <!-- Строка №2 -->
       <td> <!-- Столбец №1 -->
-        <a href="https://github.com/Mikhail-Kushnerev/Fitness-Tracker"> Fitness Tracker </a> 
+        <a href="https://github.com/Mikhail-Kushnerev/Fitness-Tracker"> Fitness Tracker </a>
       </td>
       <td> </td> <!-- Столбец №2 -->
       <td> <!-- Столбец №3 -->
@@ -110,20 +116,20 @@
     </tr> <!-- Строка №2 -->
     <tr> <!-- Строка №3 -->
       <td> <!-- Столбец №1 -->
-        <a href="https://github.com/Mikhail-Kushnerev/Calculator-of-Money-and-Calories"> Cash & Calories Calculator </a> 
+        <a href="https://github.com/Mikhail-Kushnerev/Calculator-of-Money-and-Calories"> Cash & Calories Calculator </a>
       </td>
       <td> </td> <!-- Столбец №2 -->
       <td> <!-- Столбец №3 -->
-        <a href="https://github.com/Mikhail-Kushnerev/WiFi_password"> WiFi Password Detection </a> 
+        <a href="https://github.com/Mikhail-Kushnerev/WiFi_password"> WiFi Password Detection </a>
       </td>
     </tr> <!-- Строка №3 -->
     <tr> <!-- Строка №4 -->
       <td>
-        <a href="https://github.com/Mikhail-Kushnerev/Social-Network-Yatube"> 👥 Yatube (Social Network) </a> 
+        <a href="https://github.com/Mikhail-Kushnerev/Social-Network-Yatube"> 👥 Yatube (Social Network) </a>
       </td>
-      <td></td>
+      <td> </td>
       <td>
-        <a href="https://github.com/Mikhail-Kushnerev/agr0-sh0p"> :heavy_dollar_sign: Market Place </a> 
+        <a href="https://github.com/Mikhail-Kushnerev/agr0-sh0p"> :heavy_dollar_sign: Market Place </a>
       </td>
     </tr> <!-- Строка №4 -->
     <tr> <!-- Строка №5 -->
@@ -210,35 +216,35 @@
   <ul>
     <a href="mailto:mikushnerev@yandex.ru">
       <img  
-        alt="e-mail" 
-        width="28px" 
+        alt="e-mail"
+        width="28px"
         src="https://avatars.mds.yandex.net/get-yapic/65952/enc-15316b863572ed0621d22e21b5015b6240d1ce8bc24252de87363a92be86f01b/islands-retina-50" 
       />
     </a>
     <a href="https://t.me/mikushnerev">
-      <img 
-        alt="telegram" 
-        width="26px" 
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" 
+      <img
+        alt="telegram"
+        width="26px"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"
       />
     </a>
     <a href="https://wa.me/79817886865">
       <img
-        alt="WhatsApp" 
-        width="28px" 
-        src="https://raw.githubusercontent.com/github/explore/fbea3555736cd38170cc0be88424d129741ffbb9/topics/whatsapp/whatsapp.png" 
+        alt="WhatsApp"
+        width="28px"
+        src="https://raw.githubusercontent.com/github/explore/fbea3555736cd38170cc0be88424d129741ffbb9/topics/whatsapp/whatsapp.png"
       />
     <a href="https://vk.com/killermuxa">
       <img 
-        alt="vk" 
-        width="26px" 
+        alt="vk"
+        width="26px"
         src="https://www.dropbox.com/team/team_logo/dbtid%3AAACHQZx4adzBZiBCpy7P4xtzn3UNxr-wcoE?v=1634126598663" 
       />
     </a>
     <a href="https://discordapp.com/users/282964963335602177">
       <img
-        alt="Discord" 
-        width="28px" 
+        alt="Discord"
+        width="28px"
         src="https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg"
       />
     </a>
