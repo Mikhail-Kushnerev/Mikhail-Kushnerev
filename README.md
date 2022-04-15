@@ -61,9 +61,21 @@
   >
   <img
     align="top"
+    alt="Docker"
+    width="52px"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"
+  >
+  <img
+    align="top"
     alt="JSON"
     width="52px"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"
+  >
+  <img
+    align="top"
+    alt="Nginx"
+    width="52px"
+    src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/nginx/nginx.png"
   >
 <!--  <img
     align="center"
