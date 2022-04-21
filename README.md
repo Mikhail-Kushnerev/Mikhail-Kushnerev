@@ -136,7 +136,7 @@
       </td>
       <td> </td> <!-- Столбец №2 -->
       <td> <!-- Столбец №3 -->
-        <a href=""> :email: Template Sending Message </a>
+        <a href="https://github.com/Mikhail-Kushnerev/Send-Message"> :email: Template Sending Message </a>
        <!-- <a href="https://github.com/Mikhail-Kushnerev/WiFi_password"> WiFi Password Detection </a> -->
       </td>
     </tr> <!-- Строка №3 -->
