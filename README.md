@@ -159,9 +159,8 @@
       </td>
     </tr>
     <tr> <!-- Строка №5 -->
-      <td>
+      <td align="center">
         <a href="https://github.com/Mikhail-Kushnerev/api_final_yatube"> API-Yatube </a>
-        <a href="https://github.com/Mikhail-Kushnerev/yamdb_final"> API-Yamdb </a>
       </td>
       <td> </td>
       <td>
@@ -169,7 +168,9 @@
       </td>
     </tr>
     <tr> <!-- Строка №6 -->
-      <td> </td>
+      <td align="center">
+        <a href="https://github.com/Mikhail-Kushnerev/yamdb_final"> API-Yamdb </a>
+      </td>
       <td> </td>
       <td>
         <a href=""> :email: Template Sending Message </a>
