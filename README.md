@@ -122,7 +122,7 @@
       </td>
     </tr> <!-- Строка №1 -->
     <tr> <!-- Строка №2 -->
-      <td> <!-- Столбец №1 -->
+      <td align="center"> <!-- Столбец №1 -->
         <a href="https://github.com/Mikhail-Kushnerev/Fitness-Tracker"> Fitness Tracker </a>
       </td>
       <td> </td> <!-- Столбец №2 -->
@@ -131,7 +131,7 @@
       </td>
     </tr> <!-- Строка №2 -->
     <tr> <!-- Строка №3 -->
-      <td> <!-- Столбец №1 -->
+      <td align="center"> <!-- Столбец №1 -->
         <a href="https://github.com/Mikhail-Kushnerev/Calculator-of-Money-and-Calories"> Cash & Calories Calculator </a>
       </td>
       <td> </td> <!-- Столбец №2 -->
@@ -140,7 +140,7 @@
       </td>
     </tr> <!-- Строка №3 -->
     <tr> <!-- Строка №4 -->
-      <td>
+      <td align="center">
         <a href="https://github.com/Mikhail-Kushnerev/Social-Network-Yatube"> 👥 Yatube (Social Network) </a>
       </td>
       <td> </td>
