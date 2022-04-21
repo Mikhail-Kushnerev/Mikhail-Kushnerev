@@ -136,7 +136,8 @@
       </td>
       <td> </td> <!-- Столбец №2 -->
       <td> <!-- Столбец №3 -->
-        <a href="https://github.com/Mikhail-Kushnerev/WiFi_password"> WiFi Password Detection </a>
+        <a href=""> :email: Template Sending Message </a>
+       <!-- <a href="https://github.com/Mikhail-Kushnerev/WiFi_password"> WiFi Password Detection </a> -->
       </td>
     </tr> <!-- Строка №3 -->
     <tr> <!-- Строка №4 -->
@@ -173,15 +174,13 @@
       </td>
       <td> </td>
       <td>
-        <a href=""> :email: Template Sending Message </a>
+        <a href="https://github.com/Mikhail-Kushnerev/Cleaning-the-Work-Area"> 🧹 Cleaning-the-Work-Area </a>
       </td>
     </tr>
     <tr> <!-- Строка №7 -->
       <td> </td>
       <td> </td>
-      <td>
-        <a href="https://github.com/Mikhail-Kushnerev/Cleaning-the-Work-Area"> 🧹 Cleaning-the-Work-Area </a>
-      </td>
+      <td> </td>
     </tr> 
   </table>
 </div>
