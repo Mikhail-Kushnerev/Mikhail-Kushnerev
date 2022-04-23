@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
 </div>
 
 <img width="100%" src="https://github.com/itstommi/itstommi/raw/main/Rainbow.gif"/>
@@ -134,7 +134,7 @@ Key qualities:
     alt="Markdown"
     width="80px"
     src="https://github.com/Mikhail-Kushnerev/image/blob/main/Vektornyi_774_smart-obekt.png" 
-  >  
+  >
 </ul>  
 <hr>
 
@@ -257,9 +257,6 @@ Key qualities:
 [![Spotify](https://spotify-steel-eta.vercel.app/api/spotify/?border_color=ffffff)](https://open.spotify.com/user/31nzxdr5b3ph5zk3ewewbxb6agwq)  
 -->
 <hr>
-<div id="header" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhail-Kushnerev&layout=compact&theme=tokyonight">
-</div>
   
 <!-- ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mikhail-Kushnerev&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D) -->
 
