@@ -19,10 +19,16 @@
   </summary>
   
 ```cmd
-For the last 5 years I have been closely involved in computer science projects, starting from Pascal to Visual Basic.
-Worked with the following programming languages: C++, Matlab, LabVIEW, Logo Soft Comfort, CoDeSys, Quartus and Assembler.
+For the last 5 years I've been closely involved in computer science projects. Worked with the following programming languages:
+- C++;
+- Matlab;
+- LabVIEW;
+- Logo Soft Comfort;
+- CoDeSys;
+- Quartus;
+- Assembler.
 
-Now I am intensively developing skills in the field of Python 3.10 programming language. I used this language to work with
+Now I am intensively developing skills in the field of Python 3.10 programming language. I've used this language to work with
 technical vision (detecting objects on YOLO using the OpenCV library) and developing WEB applications using the Django
 framework and Bootstrap library design.
 
