@@ -257,6 +257,11 @@ Key qualities:
 [![Spotify](https://spotify-steel-eta.vercel.app/api/spotify/?border_color=ffffff)](https://open.spotify.com/user/31nzxdr5b3ph5zk3ewewbxb6agwq)  
 -->
 <hr>
+<div id="header" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhail-Kushnerev&layout=compact&theme=vision-friendly-dark">
+</div>
+  
+<!-- ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mikhail-Kushnerev&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D) -->
 
 <!-- CONTACTES -->  
   
