@@ -258,7 +258,7 @@ Key qualities:
 -->
 <hr>
 <div id="header" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhail-Kushnerev&layout=compact&theme=vision-friendly-dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhail-Kushnerev&layout=compact&theme=tokyonight">
 </div>
   
 <!-- ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mikhail-Kushnerev&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D) -->
