@@ -13,7 +13,7 @@
 </h1>
 <p align="center"> (21.09.1999) </p>
 
-<details open>
+<details>
   <summary>
     🌏BIO
   </summary>
