@@ -212,7 +212,9 @@ Key qualities:
       </td>
     </tr>
     <tr> <!-- Строка №7 -->
-      <td> </td>
+      <td align="center">
+        <a href="https://github.com/Mikhail-Kushnerev/foodgram-project-react"> FoodGram </a>
+      </td>
       <td> </td>
       <td> </td>
     </tr> 
