@@ -7,7 +7,7 @@
 <h1 align="center">
   <img
     src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
-    width="30px"
+    width="3%"
   >
     Hi, I’m Mikhail
 </h1>
@@ -52,7 +52,7 @@ Key qualities:
 <h3>
   <img
     align="top"
-    width="30px"
+    width="3%"
     src="https://cdn-0.emojis.wiki/wp-content/uploads/2020/12/keyboard.gif"
   >
     Languages and Tools:
@@ -268,7 +268,7 @@ Key qualities:
   <summary>
     <img
       align="center"
-      width="25px"
+      width="3%"
       src="https://cdn-0.emojis.wiki/wp-content/uploads/2020/12/open-mailbox-with-raised-flag.gif"
     />
       How to contact with me:
