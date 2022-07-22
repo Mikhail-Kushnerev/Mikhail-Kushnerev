@@ -87,12 +87,12 @@ Key qualities:
     width="58px"
     src="https://www.bairesdev.com/wp-content/uploads/2019/04/img-django-logo.png" 
   />
-  <img
+  <!-- <img
     align="top"
     alt="Heroku"
     width="52px"
     src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png"
-  >
+  > -->
   <img
     align="top"
     alt="Docker"
@@ -129,12 +129,12 @@ Key qualities:
     width="52px"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"
   >
-  <img
+  <!-- <img
     align="top"
     alt="Markdown"
     width="80px"
     src="https://github.com/Mikhail-Kushnerev/image/blob/main/Vektornyi_774_smart-obekt.png" 
-  >
+  > -->
 </ul>  
 <hr>
 
