@@ -303,13 +303,13 @@ Key qualities:
         src="https://www.dropbox.com/team/team_logo/dbtid%3AAACHQZx4adzBZiBCpy7P4xtzn3UNxr-wcoE?v=1634126598663" 
       />
     </a>
-    <a href="https://discordapp.com/users/282964963335602177">
+    <!-- <a href="https://discordapp.com/users/282964963335602177">
       <img
         alt="Discord"
         width="28px"
         src="https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg"
       />
-    </a>
+    </a> -->
     <img
       title="8-(981)-788-68-65"
       width="28px"
