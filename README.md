@@ -171,7 +171,7 @@ Key qualities:
       </td>
       <td> </td> <!-- Столбец №2 -->
       <td> <!-- Столбец №3 -->
-        <a href="https://github.com/Mikhail-Kushnerev/Send-Message"> :email: Template Sending Message </a>
+        <a href="https://github.com/Mikhail-Kushnerev/agr0-sh0p"> :heavy_dollar_sign: Market Place </a>
        <!-- <a href="https://github.com/Mikhail-Kushnerev/WiFi_password"> WiFi Password Detection </a> -->
       </td>
     </tr> <!-- Строка №3 -->
@@ -181,17 +181,17 @@ Key qualities:
       </td>
       <td> </td>
       <td>
-        <a href="https://github.com/Mikhail-Kushnerev/agr0-sh0p"> :heavy_dollar_sign: Market Place </a>
+        <a href="https://github.com/Mikhail-Kushnerev/Geolocation-by-IP"> :earth_africa: Geolocation-by-IP </a>
       </td>
     </tr> <!-- Строка №4 -->
     <tr> <!-- Строка №5 -->
       <td>
         <a href="https://github.com/Mikhail-Kushnerev/homework_bot"> API-Telegram Bot </a>&nbsp;&nbsp;
-        <a href="https://github.com/Mikhail-Kushnerev/kittybot"> API-Kitty Bot </a>
+        <!-- <a href="https://github.com/Mikhail-Kushnerev/kittybot"> API-Kitty Bot </a> -->
       </td>
       <td> </td>
       <td>
-        <a href="https://github.com/Mikhail-Kushnerev/Geolocation-by-IP"> :earth_africa: Geolocation-by-IP </a>
+        <a href="https://github.com/Mikhail-Kushnerev/Export-Write-CSV"> :page_facing_up: Export-Write-CSV </a>
       </td>
     </tr>
     <tr> <!-- Строка №5 -->
@@ -200,7 +200,7 @@ Key qualities:
       </td>
       <td> </td>
       <td>
-        <a href="https://github.com/Mikhail-Kushnerev/Export-Write-CSV"> :page_facing_up: Export-Write-CSV </a>
+        <a href="https://github.com/Mikhail-Kushnerev/Cleaning-the-Work-Area"> 🧹 Cleaning-the-Work-Area </a>
       </td>
     </tr>
     <tr> <!-- Строка №6 -->
@@ -208,8 +208,8 @@ Key qualities:
         <a href="https://github.com/Mikhail-Kushnerev/yamdb_final"> API-Yamdb </a>
       </td>
       <td> </td>
-      <td>
-        <a href="https://github.com/Mikhail-Kushnerev/Cleaning-the-Work-Area"> 🧹 Cleaning-the-Work-Area </a>
+      <td align="left">
+        <a href="https://github.com/Mikhail-Kushnerev/eltechubot"> 💻 ELTECHuBOT </a>
       </td>
     </tr>
     <tr> <!-- Строка №7 -->
@@ -218,7 +218,18 @@ Key qualities:
       </td>
       <td> </td>
       <td> </td>
-    </tr> 
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Mikhail-Kushnerev/bs4_parser_pep"> Manual Python </a>
+      </td>
+      <td>
+        <a> </a>
+      </td>
+      <td>
+        <a> </a>
+      </td>
+    </tr>
   </table>
 </div>
 
