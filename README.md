@@ -217,7 +217,9 @@ Key qualities:
         <a href="https://github.com/Mikhail-Kushnerev/foodgram-project-react"> FoodGram </a>
       </td>
       <td> </td>
-      <td> </td>
+      <td align="left">
+        <a href="https://github.com/Mikhail-Kushnerev/intern-pars"> 👼 Pars Detmir </a>
+      </td>
     </tr>
     <tr>
       <td align="center">
