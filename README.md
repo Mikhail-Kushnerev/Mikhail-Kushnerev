@@ -278,14 +278,14 @@ Key qualities:
 
 <!-- CONTACTES -->  
   
-<details>  
+<details open>
   <summary>
     <img
       align="center"
       width="25px"
       src="https://cdn-0.emojis.wiki/wp-content/uploads/2020/12/open-mailbox-with-raised-flag.gif"
     />
-      How to contact with me:
+      My Contacts:
   </summary>
   <br />
   <ul>
