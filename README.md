@@ -187,7 +187,7 @@ Key qualities:
     <tr> <!-- Строка №5 -->
       <td>
         <a href="https://github.com/Mikhail-Kushnerev/homework_bot"> API-Telegram Bot </a>&nbsp;&nbsp;
-        <!-- <a href="https://github.com/Mikhail-Kushnerev/kittybot"> API-Kitty Bot </a> -->
+        <a href="https://github.com/Mikhail-Kushnerev/kittybot"> API-Kitty Bot </a>
       </td>
       <td> </td>
       <td>
