@@ -76,18 +76,18 @@ Key qualities:
         alt="CSS"
         width="56px"
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
-  />
+  >
   <img
     alt="Bootstrap"
     width="52px"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"
-  />
+  >
   <img
     align="top"
     alt="Django"
     width="58px"
     src="https://www.bairesdev.com/wp-content/uploads/2019/04/img-django-logo.png" 
-  />
+  >
   <!-- <img
     align="top"
     alt="Heroku"
@@ -223,7 +223,9 @@ Key qualities:
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/Mikhail-Kushnerev/bs4_parser_pep"> Manual Python </a>
+        <a href="https://github.com/Mikhail-Kushnerev/bs4_parser_pep"> Parse Manual Python </a>
+        <br>
+        <a href="https://github.com/Mikhail-Kushnerev/scrapy_parser_pep"> Aync Parse Manual Python </a>
       </td>
       <td>
         <a> </a>
