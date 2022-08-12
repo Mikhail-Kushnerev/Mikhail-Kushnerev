@@ -218,7 +218,7 @@ Key qualities:
       </td>
       <td> </td>
       <td align="left">
-        <a href="https://github.com/Mikhail-Kushnerev/intern-pars"> 👼 Pars Detmir </a>
+        <a href="https://github.com/Mikhail-Kushnerev/intern-pars"> 👼 Parse Detmir </a>
       </td>
     </tr>
     <tr>
