@@ -8,7 +8,7 @@
 <h1 align="center">
   <img
     src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
-    width="25px"
+    width="24px"
   >
     Hi, I’m Mikhail
 </h1>
