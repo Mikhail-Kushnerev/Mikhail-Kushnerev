@@ -231,7 +231,7 @@ Key qualities:
         <a> </a>
       </td>
       <td>
-        <a> </a>
+        <a href="https://github.com/Mikhail-Kushnerev/tp-lab"> Site Previews </a>
       </td>
     </tr>
   </table>
