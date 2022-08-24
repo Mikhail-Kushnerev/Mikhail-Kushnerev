@@ -7,7 +7,7 @@
 
 <h1 align="center">
   <img
-    src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
+    src="https://unicoding.by/images/uploads/flask1.svg"
     width="25px"
   >
     Hi, I’m Mikhail
@@ -60,11 +60,53 @@ Key qualities:
 </h3>
 <ul align="center">
   <img
-    align="top"
+    align="center"
     alt="Python"
     width="62px"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
-  />
+  >
+  <img
+    align="center"
+    alt="Django"
+    width="58px"
+    src="https://www.bairesdev.com/wp-content/uploads/2019/04/img-django-logo.png" 
+  >
+  <img
+    align="center"
+    alt="Flask"
+    width="48px"
+    src="https://virginiandungu1.github.io/assets/skills/Flask.png" 
+  >
+  <img
+    align="center"
+    alt="PostgreSQL"
+    width="52px"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"
+  >
+  <img
+    align="center"
+    alt="Redis"
+    width="54px"
+    src="https://www.clipartmax.com/png/full/201-2018012_redis-logo-black-and-white-redis-cache.png"
+  >
+  <img
+    align="center"
+    alt="Nginx"
+    width="52px"
+    src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/nginx/nginx.png"
+  >
+  <img
+    align="center"
+    alt="Docker"
+    width="52px"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"
+  >
+  <img
+    align="center"
+    alt="Git"
+    width="52px"
+    src="https://stacksnap.com/media/git.png"
+  >
   <img
     align="top"
     alt="HTML5"
@@ -79,14 +121,9 @@ Key qualities:
   >
   <img
     alt="Bootstrap"
+    align="center"
     width="52px"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"
-  >
-  <img
-    align="top"
-    alt="Django"
-    width="58px"
-    src="https://www.bairesdev.com/wp-content/uploads/2019/04/img-django-logo.png" 
   >
   <!-- <img
     align="top"
@@ -94,43 +131,13 @@ Key qualities:
     width="52px"
     src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png"
   > -->
-  <img
-    align="top"
-    alt="Docker"
-    width="52px"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"
-  >
-  <img
-    align="top"
-    alt="Redis"
-    width="54px"
-    src="https://www.clipartmax.com/png/full/201-2018012_redis-logo-black-and-white-redis-cache.png"
-  >
-  <img
-    align="top"
-    alt="Nginx"
-    width="52px"
-    src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/nginx/nginx.png"
-  >
 <!--  <img
     align="center"
     alt="REST API"
     width="52px"
     src="https://salesforceprofs.com/wp-content/uploads/2019/12/api_rest.png#gh-dark-mode-only"
-  />  -->
+  />
   <img
-    align="top"
-    alt="Git"
-    width="52px"
-    src="https://stacksnap.com/media/git.png"
-  >
-  <img
-    align="top"
-    alt="SQL"
-    width="52px"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"
-  >
-  <!-- <img
     align="top"
     alt="Markdown"
     width="80px"
