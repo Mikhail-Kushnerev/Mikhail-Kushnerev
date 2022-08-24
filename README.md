@@ -108,30 +108,30 @@ Key qualities:
     src="https://stacksnap.com/media/git.png"
   >
   <img
+    alt="Bootstrap"
+    align="center"
+    width="52px"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"
+  >
+  <img
     align="top"
     alt="HTML5"
     width="56px"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
   >
   <img
-       align="top"
-        alt="CSS"
-        width="56px"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
+    align="top"
+    alt="CSS"
+    width="56px"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
   >
-  <img
-    alt="Bootstrap"
-    align="center"
-    width="52px"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"
-  >
-  <!-- <img
+<!-- <img
     align="top"
     alt="Heroku"
     width="52px"
     src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png"
-  > -->
-<!--  <img
+  >
+<img
     align="center"
     alt="REST API"
     width="52px"
