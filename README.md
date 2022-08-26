@@ -7,7 +7,7 @@
 
 <h1 align="center">
   <img
-    src="https://cdn-0.emojis.wiki/wp-content/uploads/2020/12/waving-hand.gif"
+    src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
     width="25px"
   >
     Hi, I’m Mikhail
