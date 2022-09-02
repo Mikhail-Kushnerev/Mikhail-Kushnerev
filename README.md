@@ -68,14 +68,20 @@ Key qualities:
   <img
     align="center"
     alt="Django"
-    width="58px"
+    width="65px"
     src="https://www.bairesdev.com/wp-content/uploads/2019/04/img-django-logo.png" 
   >
   <img
     align="center"
     alt="Flask"
-    width="48px"
+    width="52px"
     src="https://virginiandungu1.github.io/assets/skills/Flask.png" 
+  >
+  <img
+    align="center"
+    alt="FastAPI"
+    width="150px"
+    src="https://xdev.team/uploads/project_frame_images/GwhXN2EGWL_1648648522.png" 
   >
   <img
     align="center"
@@ -240,6 +246,13 @@ Key qualities:
       <td>
         <a href="https://github.com/Mikhail-Kushnerev/tp-lab"> Site Previews </a>
       </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Mikhail-Kushnerev/yacut"> ✂️ YaCut </a>
+      </td>
+      <td> </td>
+      <td> </td>
     </tr>
   </table>
 </div>
