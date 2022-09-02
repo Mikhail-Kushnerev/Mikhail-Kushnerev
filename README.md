@@ -250,6 +250,7 @@ Key qualities:
     <tr>
       <td align="center">
         <a href="https://github.com/Mikhail-Kushnerev/yacut"> ✂️ YaCut </a>
+        <a href="https://github.com/Mikhail-Kushnerev/what_to_watch_flask"> 🎦 What-to-watch </a>
       </td>
       <td> </td>
       <td> </td>
