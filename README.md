@@ -238,7 +238,7 @@ Key qualities:
       <td align="center">
         <a href="https://github.com/Mikhail-Kushnerev/bs4_parser_pep"> Parse Manual Python </a>
         <br>
-        <a href="https://github.com/Mikhail-Kushnerev/scrapy_parser_pep"> Aync Parse Manual Python </a>
+        <a href="https://github.com/Mikhail-Kushnerev/scrapy_parser_pep"> Async Parse Manual Python </a>
       </td>
       <td>
         <a> </a>
