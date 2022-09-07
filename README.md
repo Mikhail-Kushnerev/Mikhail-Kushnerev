@@ -80,8 +80,8 @@ Key qualities:
   <img
     align="center"
     alt="FastAPI"
-    width="150px"
-    src="https://xdev.team/uploads/project_frame_images/GwhXN2EGWL_1648648522.png" 
+    width="110px"
+    src="https://res.cloudinary.com/practicaldev/image/fetch/s--hEgbdJhM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cheshire.io/images/asgi/fastapi.png" 
   >
   <img
     align="center"
