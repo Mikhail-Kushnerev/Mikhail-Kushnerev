@@ -67,6 +67,12 @@ Key qualities:
   >
   <img
     align="center"
+    alt="Python"
+    width="62px"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"
+  >
+  <img
+    align="center"
     alt="Django"
     width="65px"
     src="https://www.bairesdev.com/wp-content/uploads/2019/04/img-django-logo.png" 
