@@ -250,7 +250,7 @@ Key qualities:
         <a> </a>
       </td>
       <td>
-        <a href="https://github.com/Mikhail-Kushnerev/tp-lab"> Site Previews </a>
+        <a href="https://github.com/Mikhail-Kushnerev/tp-lab"> :camera: Site Previews </a>
       </td>
     </tr>
     <tr>
