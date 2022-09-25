@@ -260,6 +260,13 @@ Key qualities:
       <td> </td>
       <td> </td>
     </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Mikhail-Kushnerev/cat_charity_fund"> Charity </a>
+      </td>
+      <td> </td>
+      <td> </td>
+    </tr>
   </table>
 </div>
 
