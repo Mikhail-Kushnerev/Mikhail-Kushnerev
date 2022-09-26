@@ -114,6 +114,12 @@ Key qualities:
   >
   <img
     align="center"
+    alt="Google Cloud Platform"
+    width="52px"
+    src="https://raw.githubusercontent.com/github/explore/08e8077e6cd7375c007c6fd6ac8cced5d7738494/topics/google-cloud/google-cloud.png"
+  >
+  <img
+    align="center"
     alt="Git"
     width="52px"
     src="https://stacksnap.com/media/git.png"
