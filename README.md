@@ -267,7 +267,7 @@ Key qualities:
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/Mikhail-Kushnerev/cat_charity_fund"> Charity </a>
+        <a href="https://github.com/Mikhail-Kushnerev/QRkot_spreadsheets"> Charity </a>
       </td>
       <td> </td>
       <td> </td>
