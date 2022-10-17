@@ -264,7 +264,9 @@ Key qualities:
         <a href="https://github.com/Mikhail-Kushnerev/what_to_watch_flask"> 🎦 What-to-watch </a>
       </td>
       <td> </td>
-      <td> </td>
+      <td>
+        <a href="https://github.com/Mikhail-Kushnerev/CATEL"> Ziax </a>
+      </td>
     </tr>
     <tr>
       <td align="center">
