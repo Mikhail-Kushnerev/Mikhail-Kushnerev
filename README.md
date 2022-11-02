@@ -273,7 +273,9 @@ Key qualities:
         <a href="https://github.com/Mikhail-Kushnerev/QRkot_spreadsheets"> Charity </a>
       </td>
       <td> </td>
-      <td> </td>
+      <td>
+        <a href="https://github.com/Mikhail-Kushnerev/bilingPY"> Wallet </a>
+      </td>
     </tr>
   </table>
 </div>
