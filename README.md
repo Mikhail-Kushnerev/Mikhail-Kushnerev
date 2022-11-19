@@ -274,7 +274,7 @@ Key qualities:
       </td>
       <td> </td>
       <td>
-        <a href="https://github.com/Mikhail-Kushnerev/bilingPY"> Wallet </a>
+        <a href="https://github.com/Mikhail-Kushnerev/bilingPY"> 💸 Wallet </a>
       </td>
     </tr>
   </table>
