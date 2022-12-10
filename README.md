@@ -277,6 +277,14 @@ Key qualities:
         <a href="https://github.com/Mikhail-Kushnerev/bilingPY"> 💸 Wallet </a>
       </td>
     </tr>
+    <tr> <!-- Строка №8 -->
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
   </table>
 </div>
 
