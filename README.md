@@ -278,7 +278,8 @@ Key qualities:
       </td>
     </tr>
     <tr> <!-- Строка №8 -->
-      <td>
+      <td align="center">
+        <a href="https://github.com/Mikhail-Kushnerev/new_admin_panel_sprint_1/"> Async Parse Weather </a>
       </td>
       <td>
       </td>
