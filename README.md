@@ -279,7 +279,16 @@ Key qualities:
     </tr>
     <tr> <!-- Строка №8 -->
       <td align="center">
-        <a href="https://github.com/Mikhail-Kushnerev/new_admin_panel_sprint_1/"> Async Parse Weather </a>
+        <a href="https://github.com/Mikhail-Kushnerev/async-python-sprint-1"> Async Parse Weather </a>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr> <!-- Строка №9 -->
+      <td align="center">
+        <a href="https://github.com/Mikhail-Kushnerev/async-python-sprint-2"> Task Scheduler </a>
       </td>
       <td>
       </td>
