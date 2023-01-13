@@ -124,7 +124,7 @@ Key qualities:
     width="52px"
     src="https://stacksnap.com/media/git.png"
   >
-  <img
+<!--  <img
     alt="Bootstrap"
     align="center"
     width="52px"
@@ -142,7 +142,7 @@ Key qualities:
     width="52px"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
   >
-<!-- <img
+ <img
     align="top"
     alt="Heroku"
     width="52px"
